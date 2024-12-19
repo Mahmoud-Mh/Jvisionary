@@ -1,5 +1,5 @@
 
-# 🚀 **Job Portal Project |For learning purposes**
+# 🚀 **Job Portal Project | For learning purposes**
 
 ## 🌟 **Project Overview**
 
